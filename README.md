@@ -1,2 +1,2 @@
 # Kind
-It just mod anti knockback for education purpose only
+It is just mod anti knockback for education purpose only [:
